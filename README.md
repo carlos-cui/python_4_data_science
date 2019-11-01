@@ -1,2 +1,4 @@
 # python_4_data_science
-repository containing notebooks used in micro-masters at University of San Diego
+
+Repository contains notebooks used whle completing the python for data science course for the micro-masters at University of San Diego
+
